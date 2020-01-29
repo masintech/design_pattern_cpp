@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/david/design_pattern/single_responsibility.cpp
+iostream
+-
+fstream
+-
+string
+-
+vector
+-
+boost/lexical_cast.hpp
+-
+

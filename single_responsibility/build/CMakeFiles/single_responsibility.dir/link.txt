@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/single_responsibility.dir/single_responsibility.cpp.o  -o single_responsibility  /usr/lib/x86_64-linux-gnu/libboost_program_options.so 

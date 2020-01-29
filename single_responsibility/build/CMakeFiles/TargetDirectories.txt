@@ -1,0 +1,3 @@
+/home/david/design_pattern/build/CMakeFiles/rebuild_cache.dir
+/home/david/design_pattern/build/CMakeFiles/edit_cache.dir
+/home/david/design_pattern/build/CMakeFiles/single_responsibility.dir
