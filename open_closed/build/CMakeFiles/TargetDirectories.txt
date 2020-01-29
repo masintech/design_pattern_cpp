@@ -1,0 +1,3 @@
+/home/david/design_pattern/open_closed/build/CMakeFiles/rebuild_cache.dir
+/home/david/design_pattern/open_closed/build/CMakeFiles/edit_cache.dir
+/home/david/design_pattern/open_closed/build/CMakeFiles/creation.dir
