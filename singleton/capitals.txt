@@ -1,2 +1,6 @@
 Tokyo
-80000000
+200000
+Seoul
+3000
+Mexico City
+3000
